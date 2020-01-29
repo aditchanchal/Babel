@@ -1,0 +1,7 @@
+node
+npm
+react
+material-ui
+react-router-dom
+@material-ui/icons	
+npm install -g json-server

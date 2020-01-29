@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "id": 1, "name": "Truncation should be conditionally applicable on this long line of text as this is a much longer line than what the container can support.",  "price": "$2" },
+    { "id": 2, "name": "This component is responsible for retrieving course data from the Contentful back-end service and displaying the list of courses to the user.", "price": "$5" }
+  ] 
+}
