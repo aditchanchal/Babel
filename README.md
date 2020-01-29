@@ -17,3 +17,5 @@ The ML models (LDA, Topic modelling ,etc) then extracts important tweets which b
 * Other Tools:
   * Web-scraping(BeautifulSoup4) 
   * Cron for automation
+
+#### PS: Developed this end-to-end application in 24 hrs of "HCL AI Hackathon" and secured 3rd postion.
