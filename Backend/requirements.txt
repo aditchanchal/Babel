@@ -5,7 +5,7 @@ futures==3.2.0
 gyp==0.1
 html5lib==0.999999999
 lxml==4.2.1
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.45.1
 pathlib2==2.3.0
 pexpect==4.2.1
